@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carl</h1>
+<h1 align="center">Hi 👋, I'm Carl Mascarenhas</h1>
 <h3 align="center">A developer and student</h3>
 
 - 🔭 I’m currently working on **Flutter**
