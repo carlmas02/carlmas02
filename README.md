@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Fullstack Projects**
 
 - 👨‍💻 All of my projects are available at [https://carlmas02.github.io/Landing-Page/](https://carlmas02.github.io/Landing-Page/)
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python,Javascript,React,Django**
 
 - 📫 How to reach me **carlmas02@gmail.com**
 
